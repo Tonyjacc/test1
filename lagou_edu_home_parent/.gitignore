@@ -1,0 +1,21 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+
+# Operating system files
+.DS_Store
+
+# Eclipse specific files
+.classpath
+.project
+
+# VS Code specific files
+.vscode/
+
+
